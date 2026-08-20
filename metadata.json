@@ -1,0 +1,6 @@
+{
+  "name": "Smart Templates",
+  "description": "All-in-one AI & manual creator and editor for PDF documents, CVs, personal portfolios with Instagram integration, Student/Staff ID cards, and picture templates with sponsorship & ad management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
